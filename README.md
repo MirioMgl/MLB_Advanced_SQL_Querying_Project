@@ -29,8 +29,14 @@ The dataset comes from **Sean Lahman's Baseball Database** and is divided into f
 
 The top three schools that produced over one hundred players are particularly impressive. University of Texas at Austin(winning percentage: .600), University of Southern California(wp: .627), Arizona State University(wp: .664). It will be interesting to understand how these three universities managed to create so many players. 
 
-2. 
+2. The top 3 schools per decade that produced the most players
 
+![Top 3 schools per decade for num_players](https://github.com/user-attachments/assets/15d80d9f-1b0b-43a8-aba0-5067438f8570)
+
+A lot of the school's names in this chart appears also in the previous chart, meaning that they consistently produced MLB players over the decades. 
+
+3. Top 20% of teams in terms of average annual spending
+   
 ### Impact
 
 
