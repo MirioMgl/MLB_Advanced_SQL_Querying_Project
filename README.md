@@ -23,8 +23,10 @@ The dataset comes from **Sean Lahman's Baseball Database** and is divided into f
 
 ### Key Findings
 
+1. The top five schools that produced the most players
+![](https://github.com/user-attachments/assets/a6cb57c7-0361-4dd2-81d6-07d7a3703ebe)
 
-
+Tihsiisissjss
 ### Impact
 
 
