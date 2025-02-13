@@ -37,9 +37,17 @@ A lot of the school's names in this chart appears also in the previous chart, me
 
 3. Top 20% of teams in terms of average annual spending
    
-### Impact
+ ![Image](https://github.com/user-attachments/assets/a99ea165-6313-4f26-89f8-7cd7e10e1e88)  
 
+4. Bats percentage:
+   
+   - The vast majority of players are right-handed with percentages reaching 60%, followed by left-handed players 30%.
+   - A very small number of players can  use both hands.
 
+5. Debut height and weight average:
+
+   - We can see an increase in the average weight and height of players in their debut game. Further analysis will be needed to understand what effect this had on the games specifically on the number of home runs, to see if there is a correlation between the physicality of the players and their homerun percentage. 
+   
 
 ### Disclaimer
 This project uses a dataset provided by Maven Analytics from  Sean Lahman's Baseball Database. I do not own or claim any rights to the dataset. This analysis is conducted purely for educational and non-commercial purposes.
